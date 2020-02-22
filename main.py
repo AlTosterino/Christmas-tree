@@ -53,7 +53,7 @@ if __name__ == '__main__':
     tree_obj = Tree('christmas_tree.txt')
     lights_obj = LightsDriver()
     chars = tree_obj.open_file()
-    wanted_colors = (('R', '●', Fore.RED), ('G', '●', Fore.GREEN), ('B', '●', Fore.BLUE), ('Y', '⋆', Fore.YELLOW))
+    wanted_colors = (('R', 'o', Fore.RED), ('G', 'o', Fore.GREEN), ('B', 'o', Fore.BLUE), ('Y', '*', Fore.YELLOW))
     for item in wanted_colors:
         color_char, replace_char, color = item
         lights_obj.add_light(Light(replace_char, color_char, color))
