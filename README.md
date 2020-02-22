@@ -14,6 +14,6 @@ This script and virtual environment uses [Python 3.8.1](https://www.python.org/d
 Run script: `pipenv run python main.py`
 ## Acknowledgments
 
-* Authors of: colorama
+* Authors of: [Colorama](https://pypi.org/project/colorama/)
 
 
