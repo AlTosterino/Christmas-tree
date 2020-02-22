@@ -1,4 +1,4 @@
-![MIT License](https://img.shields.io/badge/License-MIT-brightgreen.svg) ![Python 3.8](https://upload.wikimedia.org/wikipedia/commons/a/a5/Blue_Python_3.8_Shield_Badge.svg) [![Code Quality](https://www.code-inspector.com/project/4061/score/svg)](https://frontend.code-inspector.com/public/project/4061/Terminal-chat/dashboard) [![Code Grade](https://www.code-inspector.com/project/4061/status/svg)](https://frontend.code-inspector.com/public/project/4061/Terminal-chat/dashboard)
+![MIT License](https://img.shields.io/badge/License-MIT-brightgreen.svg) ![Python 3.8](https://upload.wikimedia.org/wikipedia/commons/a/a5/Blue_Python_3.8_Shield_Badge.svg)
 # Colorful christmas tree
 Colorful christmas tree created using text file and colored using colorama.
 ## Example
